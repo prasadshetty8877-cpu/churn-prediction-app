@@ -62,7 +62,7 @@ Built an end-to-end machine learning pipeline to predict churn and provide actio
 
 \## 🚀 Live Demo
 
-👉 \[Click Here](https://mystreamlitapp.streamlit.app/)
+👉 \[Click Here](https://.mystreamlit.app/)
 
 
 
