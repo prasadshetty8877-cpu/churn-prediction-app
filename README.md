@@ -110,6 +110,54 @@ Built an end-to-end machine learning pipeline to predict churn and provide actio
 
 \---
 
+# 📊 Customer Churn Analysis Dashboard
+
+## 🚀 Project Overview
+
+This project analyzes customer churn behavior using Power BI to identify key drivers and high-risk customer segments.
+
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Executive Overview
+
+![Page 1](page1.png)
+
+### 🔹 Customer Segmentation
+
+![Page 2](page2.png)
+
+### 🔹 Service Usage & Churn Drivers
+
+![Page 3](page3.png)
+
+---
+
+## 💼 Key Business Insights
+
+* Customers without Tech Support show ~41% churn rate
+* Fiber optic users have higher churn compared to DSL
+* Lack of Online Security increases churn risk
+* High-risk segment: Month-to-Month + No Tech Support
+
+---
+
+## 🛠 Tools Used
+
+* Power BI
+* Data Visualization
+* DAX
+
+---
+
+## 📂 Files
+
+* Dashboard (.pbix)
+* Dataset
+* Dashboard Screenshots
+
+
 
 
 \## 👨‍💻 Author
